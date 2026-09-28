@@ -1,0 +1,20 @@
+{
+  "name": "genpark-generational-garbage-collector-card-table-skill",
+  "version": "1.0.0",
+  "description": "Generational GC with nursery and mature generations using write-barrier card table tracking",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "generational-gc",
+    "card-table",
+    "write-barrier",
+    "nursery-heap",
+    "minor-gc",
+    "python-standard-library",
+    "agent-skills",
+    "runtime-systems",
+    "garbage-collection",
+    "heap-tuning"
+  ]
+}
