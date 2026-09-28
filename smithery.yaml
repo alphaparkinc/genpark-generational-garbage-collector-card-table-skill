@@ -1,0 +1,6 @@
+name: genpark-generational-garbage-collector-card-table-skill
+version: 1.0.0
+description: Generational GC with nursery and mature generations using write-barrier card table tracking
+command: python
+args:
+  - mcp_server.py
